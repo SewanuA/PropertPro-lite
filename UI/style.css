@@ -164,6 +164,40 @@ select{
 	color: blue;
 }
 
+/* About page styling */
+
+.showcaseimg{
+	background: url('./img/field.jpg')  center no-repeat;
+    background-size: cover;
+    height: 30vh;
+    width: 100vw;
+	position: relative;
+}
+
+#cont{
+	margin-left: 10%;
+}
+
+#cont h3{
+	color: blue;
+}
+
+#vision{
+	float: right;
+	width: 30%;
+}
+
+#mission{
+	float: left;
+	width: 65%;
+}
+
+#main h2, #main h3{
+	color: blue;
+}
+
+/* footer syling */
+
 footer{
 	margin-left: 60%;
 }
