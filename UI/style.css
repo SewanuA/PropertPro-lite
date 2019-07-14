@@ -206,7 +206,15 @@ select{
 	border-radius: 20px;
 }
 
+/* User view all property styling */
 
+#adverts .boxes{
+	float: left;
+	width: 32%;
+	text-align: center;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
 
 
 /* footer syling */
