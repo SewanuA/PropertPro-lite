@@ -73,23 +73,6 @@ header a:hover{
 	position: relative;
 }
 
-#showcasepic h1{
-	text-align: center;
-	font-weight: bold;
-	padding: 0;
-	color: #3b404c;
-	margin-top: 0;
-	margin-bottom: 0;
-}
-
-#showcasepic{
-	background: url('./img/pool.jpg')  center no-repeat;
-    background-size: cover;
-    height: 30vh;
-    width: 100vw;
-	position: relative;
-}
-
 .showcaseimg{
 	background: url('./img/field.jpg')  center no-repeat;
     background-size: cover;
@@ -196,7 +179,7 @@ select{
 	color: blue;
 }
 
-/* Log-in styling */
+/* Log-in & Sign-up styling */
 
 #showcasepic h1{
 	text-align: center;
@@ -222,6 +205,9 @@ select{
 	color: #ffffff;
 	border-radius: 20px;
 }
+
+
+
 
 /* footer syling */
 
