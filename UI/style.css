@@ -216,6 +216,18 @@ select{
 	margin-bottom: 10px;
 }
 
+/* User view specific property styling */
+
+#prop-info{
+	border: 1px solid #9dc0dc;
+	padding: 0 0 50px 10px;
+	border-radius: 20px;
+}
+
+#prop-info label{
+	margin-right: 100px;
+}
+
 
 /* footer syling */
 
