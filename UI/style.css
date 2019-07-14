@@ -228,6 +228,48 @@ select{
 	margin-right: 100px;
 }
 
+/* Agent view homepage styling */
+
+.agent{		
+	margin-bottom: 30px;
+}
+
+.agent-info{
+	margin-top: 40px;
+}
+
+.agent-info label{
+	float: right;
+	width: 20%;
+	margin-right: 70px;
+	padding-bottom: 20px;
+}
+
+.agent-info img{
+	float: left;
+	width: 15%;
+	border-radius: 30px;
+}
+
+.agent-box{
+	margin-bottom: 20px;
+	padding-top: 10px;
+	text-align: center;
+	border: 1px solid #9dc0dc
+}
+
+.agent-box label{
+	margin-right: 50px;
+}
+
+#del{
+	border-radius: 5px;
+	color: red;
+	cursor: pointer;
+	width: 60px;
+	margin-left: 10px;
+}
+
 
 /* footer syling */
 
