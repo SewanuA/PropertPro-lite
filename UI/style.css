@@ -270,6 +270,16 @@ select{
 	margin-left: 10px;
 }
 
+/* Agent add property styling */
+
+.add-prop{
+	padding: 0 0 50px 10px;
+}
+
+.add-prop input{
+	margin-right: 50px;
+}
+
 
 /* footer syling */
 
