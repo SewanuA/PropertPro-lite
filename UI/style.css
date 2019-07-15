@@ -111,6 +111,7 @@ select{
 #search1{
 	float: left;
 	width: 25%;
+	padding-left: 100px;
 }
 
 #search-b{
@@ -122,6 +123,7 @@ select{
 
 #search-b h2{
 	color: #ffffff;
+	text-align: center;
 }
 
 #adverts{
@@ -284,13 +286,71 @@ select{
 	margin-right: 50px;
 }
 
-/* Agent update property styling */
-
-
-
-
 /* footer syling */
 
 footer{
 	margin-left: 60%;
+}
+
+/* Media Queries */
+
+@media(max-width: 800px){
+	header #branding,
+	header nav,
+	header li,
+	#about-us,
+	#mission,
+	#vision{
+		float: none;
+		text-align: center;
+		width: 100%;
+	}
+
+	.showimg{
+		position: center;
+	}
+
+	#adverts .box{
+		float: none;
+		text-align: center;
+		width: 100%;
+		padding-bottom: 10px;
+	}
+
+	#adverts #boxx{
+		float: left;
+		width: 30%;
+	}
+
+	#adverts .boxes{
+		float: none;
+		text-align: center;
+		width: 100%;
+		padding-bottom: 10px;
+	}
+
+	#search-b{
+		width: 90%;
+	}
+
+	.sign-in input{
+		margin-bottom: 10px;
+	}
+
+	#search1{
+		float: none;
+		width: 59%;
+	}
+
+	#sea{
+		width: 100%;
+	}
+
+	#sea select, #sea input, .add-prop input{
+		margin-bottom: 10px;
+	}
+
+	header{
+		padding-bottom: 20px;
+	}
 }
