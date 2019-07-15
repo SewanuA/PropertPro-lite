@@ -270,6 +270,10 @@ select{
 	margin-left: 10px;
 }
 
+.btn:hover, #del:hover{
+	background-color: #ffffff;
+}
+
 /* Agent add property styling */
 
 .add-prop{
@@ -279,6 +283,10 @@ select{
 .add-prop input{
 	margin-right: 50px;
 }
+
+/* Agent update property styling */
+
+
 
 
 /* footer syling */
